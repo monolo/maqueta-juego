@@ -27,7 +27,7 @@
         <?php
         // put your code here
         ?>
-        <div class="cointainer">
+        <div class="container">
             <div id="slider-wrapper">
                 <ul id="slider">
                     <!-- Diapositiva 1 -->

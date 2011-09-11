@@ -1,9 +1,9 @@
-
-#slider-wrapper { overflow: hidden; width: 700px; background-image: url("../imagenes/fondo.jpg");}
+div.container{width: 700px;}
+#slider-wrapper { overflow: hidden; background-image: url("../imagenes/fondo.jpg");}
 #slider { width: 8000px; padding: 0px; margin: auto; }
 #slider li.slide { float:left; display:block; width: 700px; padding: 0px; margin: 0px; }
 .niveles{ width: 700px; margin: 50px; }
-.niveles li { float: left; list-style-type: none; margin: 15px; }
+.niveles li { float: left; list-style-type: none; margin: 15px; display: block; }
 .niveles li a { float: left; }
 
 button.punch {
